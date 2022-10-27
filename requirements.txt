@@ -1,0 +1,12 @@
+numpy
+pandas
+sklearn
+Flask
+gunicorn
+PyYAML
+scikit-learn
+setuptools
+kaggle
+evidently
+dill
+-e .
